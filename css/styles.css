@@ -60,14 +60,12 @@ img {
 }
 
 .our-works {
-  width: 1600px;
   margin-left: auto;
   margin-right: auto;
   padding-bottom: 94px;
 }
 
 .header-backgroud {
-  width: 1600px;
   margin-left: auto;
   margin-right: auto;
   background-color: var(--header-backgroud);
@@ -147,7 +145,6 @@ img {
 }
 
 .page-header {
-  width: 1600px;
   margin-left: auto;
   margin-right: auto;
   padding-top: 24px;
@@ -163,7 +160,6 @@ img {
 }
 
 .advantage-section {
-  width: 1600px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -187,7 +183,6 @@ img {
 }
 
 .team-section {
-  width: 1600px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -228,7 +223,6 @@ img {
 }
 
 .footer-section {
-  width: 1600px;
   margin-left: auto;
   margin-right: auto;
   padding-top: 60px;
