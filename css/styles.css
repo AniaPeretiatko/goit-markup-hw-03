@@ -291,6 +291,7 @@ img {
 }
 
 .work-section-item {
+  padding: 20px 24px;
   border-bottom-width: 1px;
   border-bottom-style: solid;
   border-bottom-color: #eeeeee;
@@ -321,6 +322,7 @@ img {
 }
 
 .advantage-item-position {
+  margin-bottom: 0;
   line-height: 1.71;
 }
 .second-background {
@@ -336,14 +338,14 @@ img {
   color: var(--title-color);
 }
 .team-item-position {
+  margin-bottom: 0;
   font-size: 16px;
   line-height: 1.19;
   text-align: center;
 }
 
 .name-position-item {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding: 30px;
   text-align: center;
 }
 
@@ -396,6 +398,7 @@ img {
   color: var(--title-color);
 }
 .portfolio-title-text {
+  margin-bottom: 0;
   font-size: 16px;
   line-height: 1.87;
 }
